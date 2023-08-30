@@ -4,3 +4,6 @@
 ```
 npm install
 ```
+- [ ] Clonar el repositorio
+- [ ] Instalar dependencias
+- [ ] Empezar a desarrollar
